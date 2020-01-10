@@ -18,3 +18,6 @@ class ViewController: UIViewController {
 
 }
 
+struct hello {
+    var sup: String
+}
